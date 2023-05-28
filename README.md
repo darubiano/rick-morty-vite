@@ -1,4 +1,7 @@
 ## Rick & Morty app Vite
+
+Github Pages https://darubiano.github.io/rick-morty-vite/
+
 https://rickandmortyapi.com/documentation/#javascript-client
 
 Pasos para ejecutar proyecto:
