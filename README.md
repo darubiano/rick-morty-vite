@@ -1,5 +1,6 @@
 ## Rick & Morty app Vite
 https://rickandmortyapi.com/documentation/#javascript-client
+
 Pasos para ejecutar proyecto:
 
 1. Clonar repositorio
